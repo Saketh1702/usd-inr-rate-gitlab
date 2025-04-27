@@ -6,4 +6,4 @@
 |:----:|:------:|:-----:|
 | USD  | INR    | 85.4301 |
 
-_Last updated: _
+_Last updated: {{ date_time }}_
