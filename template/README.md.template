@@ -1,0 +1,9 @@
+# USD → INR Exchange Rate
+
+**Date:** {{ date }}
+
+| Base | Target | Rate  |
+|:----:|:------:|:-----:|
+| USD  | INR    | {{ rate }} |
+
+_Last updated: {{ date_time }}_
