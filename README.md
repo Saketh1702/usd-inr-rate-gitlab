@@ -4,6 +4,6 @@
 
 | Base | Target | Rate  |
 |:----:|:------:|:-----:|
-| USD  | INR    | 88.6768 |
+| USD  | INR    | 88.7758 |
 
 _Last updated: _
